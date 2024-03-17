@@ -1,10 +1,14 @@
-# Hi there 👋, I'm Md Anisur Rahman
-## Full Stack Web Developer
-I am a Full Stack Web developer. Besides, I am an Electrical & Automation Engineer. But I found my passion on web development and I decided to shift my path. I am a dedicated, hard-working and passionate person who can work under pressure . I love to accept challenges and do not give up until I become successful. I would like to see myself as a Senior developer within the next 2 years and I am working on it. I would like to expand my learned skill by working for a company.
 
-Skills: HTML/CSS/Tailwind CSS/JavaScript/ReactJs/NodeJS/ExpressJs/MongoDB/JWT/Firebase/Stripe/Netlify
+## Backend Developer
+👋 Hello there! I'm Md Anisur Rahman , an Electrical Engineering and Automation graduate who pivoted into the exciting world of programming. As a backend developer, I specialize in crafting robust and scalable solutions that power the digital realm. With a strong foundation in engineering principles coupled with a passion for coding, I bring a unique blend of analytical thinking and creative problem-solving to every project I undertake. Let's collaborate and build something amazing together!
 
-- 🌱 I’m currently learning React Native 
+## Skills
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Python
+- **Frontend:** ReactJS, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, PostgreSQL, SQL
+- **ORM/ODM:** Mongoose, Prisma
+
 - 📫 How to reach me: anisurrahman06046@gmail.com 
 
 
