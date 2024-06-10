@@ -9,7 +9,10 @@
 - **Databases:** MongoDB, PostgreSQL, SQL
 - **ORM/ODM:** Mongoose, Prisma
 
-- 📫 How to reach me: anisurrahman06046@gmail.com 
+- 📫 How to reach me: anisurrahman06046@gmail.com
+
+
+<a href="https://app.daily.dev/anis06046"><img src="https://api.daily.dev/devcards/v2/lpU7eJmqqbyvqb8mrLSOX.png?r=pkc" width="356" alt="Md Anisur Rahman's Dev Card"/></a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anisurrahman06046)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-anisur-rahman-0575861b2//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100008280541615)  
