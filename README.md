@@ -5,9 +5,11 @@
 ## Skills
 - **Languages:** HTML, CSS, JavaScript, TypeScript, Python
 - **Frontend:** ReactJS, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, PostgreSQL, SQL
-- **ORM/ODM:** Mongoose, Prisma
+- **Backend:** Node.js, Express.js, NestJs
+- **Databases:** MongoDB, PostgreSQL.
+- **ORM/ODM:** Mongoose, Prisma, TypeORM
+- **Others:** Unit Test, Jest, Swagger.
+- **Familiar:** Machine Learning, Data Visualization,Pandas, Numpy, Matplotlib ,Web Scraping, beautifulsoup, Selenium Python.
 
 - 📫 How to reach me: anisurrahman06046@gmail.com
 
