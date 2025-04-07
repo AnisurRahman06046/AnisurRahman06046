@@ -1,12 +1,12 @@
 
-## Backend Developer
+## Software Engineer
 👋 Hello there! I'm Md Anisur Rahman , an Electrical Engineering and Automation graduate who pivoted into the exciting world of programming. As a backend developer, I specialize in crafting robust and scalable solutions that power the digital realm. With a strong foundation in engineering principles coupled with a passion for coding, I bring a unique blend of analytical thinking and creative problem-solving to every project I undertake. Let's collaborate and build something amazing together!
 
 ## Skills
 - **Languages:** JavaScript, TypeScript, Python.
 - **Frontend:** ReactJS, Next.js
 - **Backend Development:** Node.js, Express.js, NestJs, Fast Api, Django, DRF.
-- - **Desktop App Development:** PyQt6.
+-  **Desktop App Development:** PyQt6.
 - **Databases:** MongoDB, PostgreSQL.
 - **ORM/ODM:** Mongoose, Prisma, TypeORM, SqlAlchemy.
 - **Others:** Unit Test, Jest, Swagger, Alembic.
